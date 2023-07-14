@@ -1,0 +1,2 @@
+# DemoApp
+sinov uchun ishlshga
